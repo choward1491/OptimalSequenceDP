@@ -1,13 +1,11 @@
 ﻿  main.cpp
-c:\users\howar\onedrive\documents\codes\cpp\optimalsequencedp\src\main.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\howar\onedrive\documents\codes\cpp\optimalsequencedp\src\main.cpp(53): warning C4018: '<': signed/unsigned mismatch
 c:\users\howar\onedrive\documents\codes\cpp\optimalsequencedp\src\dp_optseq.hpp(80): warning C4018: '<': signed/unsigned mismatch
-  c:\users\howar\onedrive\documents\codes\cpp\optimalsequencedp\src\main.cpp(40): note: see reference to function template instantiation 'dp::vec dp::optimal_sequence::solve<Penalty,FinalCost>(const Penalty &,const FinalCost &,unsigned int &)' being compiled
+  c:\users\howar\onedrive\documents\codes\cpp\optimalsequencedp\src\main.cpp(48): note: see reference to function template instantiation 'dp::vec dp::optimal_sequence::solve<Penalty,FinalCost>(const Penalty &,const FinalCost &,unsigned int &)' being compiled
           with
           [
               Penalty=Penalty,
               FinalCost=FinalCost
           ]
-  dp_optseq.cpp
-  Generating Code...
   OptimalSequenceDP.vcxproj -> C:\Users\howar\OneDrive\Documents\codes\cpp\OptimalSequenceDP\Debug\OptimalSequenceDP.exe
   OptimalSequenceDP.vcxproj -> C:\Users\howar\OneDrive\Documents\codes\cpp\OptimalSequenceDP\Debug\OptimalSequenceDP.pdb (Partial PDB)
